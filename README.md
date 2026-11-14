@@ -1,6 +1,6 @@
 # Bài 7: Soạn Email Khủng hoảng Giao chậm Black Friday theo Khung CREATE
 
-##  **6 khối CREATE:**  
+## 6 khối CREATE:
 - Character: Trưởng CSKH TechShop.
 
 - Request: Soạn email xin lỗi vì giao hàng chậm 4-6 ngày do lỗi kho vận Black Friday, kèm cam kết lộ trình mới và Voucher 15%.
